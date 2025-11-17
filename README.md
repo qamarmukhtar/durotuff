@@ -1,62 +1,58 @@
-# DuroTuff Website
+# DuroTuff - Premium Garden Pipes and Hoses Manufacturer
 
-This is a professional website for DuroTuff, a manufacturer of premium garden pipes and hoses.
+Welcome to DuroTuff, a professional website for a premium manufacturer of high-quality garden pipes, braided hoses, and suction pipes. Our products are designed for wholesalers, builders, and institutional buyers across South India.
 
-## Project Structure
+## 🌐 Live Demo
+
+[https://qamarmukhtar.github.io/durotuff](https://qamarmukhtar.github.io/durotuff)
+
+## 📋 Features
+
+- **Responsive Design**: Works seamlessly on all devices from mobile to desktop
+- **Modern UI**: Clean, professional interface with smooth animations
+- **Video Hero Section**: Engaging background video in the hero section
+- **Product Showcase**: Dedicated sections for garden pipes and hoses
+- **Testimonials**: Customer reviews and feedback
+- **Gallery**: Visual display of products in action
+- **Contact Form**: Easy communication channel for inquiries
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic markup for content structure
+- **CSS3**: Modern styling with Flexbox and Grid layouts
+- **JavaScript**: Interactive elements and DOM manipulation
+- **Google Fonts**: Poppins font family for typography
+- **Font Awesome**: Icons for enhanced UI elements
+
+## 📁 Project Structure
 
 ```
-DuroTuff_Qoder/
+durotuff/
 ├── index.html          # Main HTML file
-├── styles.css          # Main stylesheet
+├── styles.css          # Custom stylesheet
 ├── script.js           # JavaScript functionality
-├── README.md           # This file
-└── images/
+├── README.md           # Project documentation
+├── .gitignore          # Git ignore file
+└── images/             # Image assets folder
+    ├── durotuff.jpg    # Company logo
     ├── favicon.ico     # Website favicon
-    └── logo.svg        # Company logo
+    └── logo.svg        # SVG logo
 ```
 
-## Features
+## 🚀 Deployment
 
-- Responsive design that works on all devices
-- Modern, professional layout
-- Interactive elements with smooth animations
-- Mobile-friendly navigation
-- Contact form
-- Product showcase
-- Testimonials section
-- Gallery section
+The website is deployed using GitHub Pages. Any changes pushed to the `master` branch will automatically update the live site.
 
-## Customization
-
-To customize this website for your needs:
-
-1. Replace the logo in `images/logo.svg` with your actual logo
-2. Update contact information in `index.html`
-3. Modify product information and images as needed
-4. Update the color scheme in `styles.css` if desired
-
-## Contact Information
+## 📞 Contact Information
 
 - **Phone**: +91 81234 77773
 - **Email**: manoj@durotuffpipe.com
 - **Website**: www.durotuffpipe.com
 
-## Technologies Used
+## 📄 License
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts
-- Font Awesome Icons
+This project is proprietary and confidential. All rights reserved by DuroTuff.
 
-## Browser Support
+---
 
-This website is compatible with all modern browsers including:
-- Chrome
-- Firefox
-- Safari
-- Edge
-
-## Deployment
-
-To deploy this website, simply upload all files to your web server. No special server requirements are needed.
+© 2025 DuroTuff. All rights reserved.
